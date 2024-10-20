@@ -11,3 +11,6 @@ This project focuses on using Git as a version control system to manage and trac
 - **Stashing**: Saving uncommitted changes temporarily to work on other tasks.
 - **Merge Conflict Resolution**: Resolving conflicts that arise during merging branches.
 - **Commit History**: Viewing and managing commit logs to track the project's development history.
+
+## Team Page
+You can view the [Team 6 page](https://csc510-team-wise-vilkomir-sykes.github.io/git-homework/team.html) for more information about the team members.
