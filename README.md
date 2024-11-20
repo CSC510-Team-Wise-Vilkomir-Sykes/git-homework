@@ -14,3 +14,5 @@ This project focuses on using Git as a version control system to manage and trac
 
 ## Team Page
 You can view the [Team 6 page](https://csc510-team-wise-vilkomir-sykes.github.io/git-homework/team.html) for more information about the team members.
+
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/25c469b8-1888-4699-970e-52a1fa536f5d">
